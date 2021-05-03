@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  display: grid;
+  place-items: center;
+  height: 100vh;
+  background: #1f3f3f;
+  text-align: center;
+}
+
+
+h1 {
+  font-size: 4em;
+  font-family: 'Courier New', Courier, monospace;
+  color: #fff;
+}
